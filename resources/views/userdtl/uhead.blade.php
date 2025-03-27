@@ -1,0 +1,362 @@
+
+
+<header id="page-topbar">
+    <div class="navbar-header">
+        <div class="d-flex">
+            {{-- <!-- LOGO -->
+             <div class="navbar-brand-box">
+             <a href="index.html" class="logo logo-dark">
+                    <span class="logo-sm">
+                        <img src=" {{ asset('backend/assets/images/logo-sm.png') }}" alt="logo-sm" height="22">
+                    </span>
+                    <span class="logo-lg">
+                        <img src=" {{ asset('backend/assets/images/logo-dark.png') }}" alt="logo-dark" height="20">
+                    </span>
+                </a> 
+
+                 <a href="index.html" class="logo logo-light">
+                    <span class="logo-sm">
+                        <img src=" {{ asset('backend/assets/images/logo-sm.png') }}" alt="logo-sm-light" height="22">
+                    </span>
+                    <span class="logo-lg">
+                        <img src=" {{ asset('backend/assets/images/logo-light.png') }}" alt="logo-light" height="20">
+                    </span>
+                </a> 
+            </div>  --}}
+
+            <img src="{{asset('frontend/assets/img/logo/college space.png')}}" class="avatar-md rounded-circle" alt="" hight="5" width="5"></a><b><i><big><big></b></i></big></big>
+
+            <!-- App Search-->
+            <form class="app-search d-none d-lg-block">
+                <div class="position-relative">
+                    <input type="text" class="form-control" placeholder="Search...">
+                    <span class="ri-search-line"></span>
+                </div>
+            </form>
+{{-- <!-- mega menu-->
+            <div class="dropdown dropdown-mega d-none d-lg-block ms-2">
+                <button type="button" class="btn header-item waves-effect" data-bs-toggle="dropdown" aria-haspopup="false" aria-expanded="false">
+                    Mega Menu
+                    <i class="mdi mdi-chevron-down"></i> 
+                </button>
+                <div class="dropdown-menu dropdown-megamenu">
+                    <div class="row">
+                        <div class="col-sm-8">
+    
+                            <div class="row">
+                                <div class="col-md-4">
+                                    <h5 class="font-size-14">UI Components</h5>
+                                    <ul class="list-unstyled megamenu-list">
+                                        <li>
+                                            <a href="javascript:void(0);">Lightbox</a>
+                                        </li>
+                                        <li>
+                                            <a href="javascript:void(0);">Range Slider</a>
+                                        </li>
+                                        <li>
+                                            <a href="javascript:void(0);">Sweet Alert</a>
+                                        </li>
+                                        <li>
+                                            <a href="javascript:void(0);">Rating</a>
+                                        </li>
+                                        <li>
+                                            <a href="javascript:void(0);">Forms</a>
+                                        </li>
+                                        <li>
+                                            <a href="javascript:void(0);">Tables</a>
+                                        </li>
+                                        <li>
+                                            <a href="javascript:void(0);">Charts</a>
+                                        </li>
+                                    </ul>
+                                </div>
+
+                                <div class="col-md-4">
+                                    <h5 class="font-size-14">Applications</h5>
+                                    <ul class="list-unstyled megamenu-list">
+                                        <li>
+                                            <a href="javascript:void(0);">Ecommerce</a>
+                                        </li>
+                                        <li>
+                                            <a href="javascript:void(0);">Calendar</a>
+                                        </li>
+                                        <li>
+                                            <a href="javascript:void(0);">Email</a>
+                                        </li>
+                                        <li>
+                                            <a href="javascript:void(0);">Projects</a>
+                                        </li>
+                                        <li>
+                                            <a href="javascript:void(0);">Tasks</a>
+                                        </li>
+                                        <li>
+                                            <a href="javascript:void(0);">Contacts</a>
+                                        </li>
+                                    </ul>
+                                </div>
+
+                                <div class="col-md-4">
+                                    <h5 class="font-size-14">Extra Pages</h5>
+                                    <ul class="list-unstyled megamenu-list">
+                                        <li>
+                                            <a href="javascript:void(0);">Light Sidebar</a>
+                                        </li>
+                                        <li>
+                                            <a href="javascript:void(0);">Compact Sidebar</a>
+                                        </li>
+                                        <li>
+                                            <a href="javascript:void(0);">Horizontal layout</a>
+                                        </li>
+                                        <li>
+                                            <a href="javascript:void(0);">Maintenance</a>
+                                        </li>
+                                        <li>
+                                            <a href="javascript:void(0);">Coming Soon</a>
+                                        </li>
+                                        <li>
+                                            <a href="javascript:void(0);">Timeline</a>
+                                        </li>
+                                        <li>
+                                            <a href="javascript:void(0);">FAQs</a>
+                                        </li>
+                            
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-sm-4">
+                            <div class="row">
+                                <div class="col-sm-6">
+                                    <h5 class="font-size-14">UI Components</h5>
+                                    <ul class="list-unstyled megamenu-list">
+                                        <li>
+                                            <a href="javascript:void(0);">Lightbox</a>
+                                        </li>
+                                        <li>
+                                            <a href="javascript:void(0);">Range Slider</a>
+                                        </li>
+                                        <li>
+                                            <a href="javascript:void(0);">Sweet Alert</a>
+                                        </li>
+                                        <li>
+                                            <a href="javascript:void(0);">Rating</a>
+                                        </li>
+                                        <li>
+                                            <a href="javascript:void(0);">Forms</a>
+                                        </li>
+                                        <li>
+                                            <a href="javascript:void(0);">Tables</a>
+                                        </li>
+                                        <li>
+                                            <a href="javascript:void(0);">Charts</a>
+                                        </li>
+                                    </ul>
+                                </div>
+
+                                <div class="col-sm-5">
+                                    <div>
+                                        <img src="assets/images/megamenu-img.png" alt="megamenu-img" class="img-fluid mx-auto d-block">
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+            <!-- mega menu end--> --}}
+        </div>
+
+        <div class="d-flex">
+
+            {{-- <div class="dropdown d-inline-block d-lg-none ms-2">
+                <button type="button" class="btn header-item noti-icon waves-effect" id="page-header-search-dropdown"
+                    data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                    <i class="ri-search-line"></i>
+                </button>
+                <div class="dropdown-menu dropdown-menu-lg dropdown-menu-end p-0"
+                    aria-labelledby="page-header-search-dropdown">
+        
+                    <form class="p-3">
+                        <div class="mb-3 m-0">
+                            <div class="input-group">
+                                <input type="text" class="form-control" placeholder="Search ...">
+                                <div class="input-group-append">
+                                    <button class="btn btn-primary" type="submit"><i class="ri-search-line"></i></button>
+                                </div>
+                            </div>
+                        </div>
+                    </form>
+                </div>
+            </div>
+
+            <div class="dropdown d-none d-sm-inline-block">
+                <button type="button" class="btn header-item waves-effect"
+                    data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                    <img class="" src="assets/images/flags/us.jpg" alt="Header Language" height="16">
+                </button>
+                <div class="dropdown-menu dropdown-menu-end">
+        
+                    <!-- item-->
+                    <a href="javascript:void(0);" class="dropdown-item notify-item">
+                        <img src="assets/images/flags/spain.jpg" alt="user-image" class="me-1" height="12"> <span class="align-middle">Spanish</span>
+                    </a>
+
+                    <!-- item-->
+                    <a href="javascript:void(0);" class="dropdown-item notify-item">
+                        <img src="assets/images/flags/germany.jpg" alt="user-image" class="me-1" height="12"> <span class="align-middle">German</span>
+                    </a>
+
+                    <!-- item-->
+                    <a href="javascript:void(0);" class="dropdown-item notify-item">
+                        <img src="assets/images/flags/italy.jpg" alt="user-image" class="me-1" height="12"> <span class="align-middle">Italian</span>
+                    </a>
+
+                    <!-- item-->
+                    <a href="javascript:void(0);" class="dropdown-item notify-item">
+                        <img src="assets/images/flags/russia.jpg" alt="user-image" class="me-1" height="12"> <span class="align-middle">Russian</span>
+                    </a>
+                </div>
+            </div> --}}
+  {{-- github and many more --}}
+            {{-- <div class="dropdown d-none d-lg-inline-block ms-1">
+                <button type="button" class="btn header-item noti-icon waves-effect"
+                    data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                    <i class="ri-apps-2-line"></i>
+                </button>
+                <div class="dropdown-menu dropdown-menu-lg dropdown-menu-end">
+                    <div class="px-lg-2">
+                        <div class="row g-0">
+                            <div class="col">
+                                <a class="dropdown-icon-item" href="#">
+                                    <img src="assets/images/brands/github.png" alt="Github">
+                                    <span>GitHub</span>
+                                </a>
+                            </div>
+                            <div class="col">
+                                <a class="dropdown-icon-item" href="#">
+                                    <img src="assets/images/brands/bitbucket.png" alt="bitbucket">
+                                    <span>Bitbucket</span>
+                                </a>
+                            </div>
+                            <div class="col">
+                                <a class="dropdown-icon-item" href="#">
+                                    <img src="assets/images/brands/dribbble.png" alt="dribbble">
+                                    <span>Dribbble</span>
+                                </a>
+                            </div>
+                        </div>
+
+                        <div class="row g-0">
+                            <div class="col">
+                                <a class="dropdown-icon-item" href="#">
+                                    <img src="assets/images/brands/dropbox.png" alt="dropbox">
+                                    <span>Dropbox</span>
+                                </a>
+                            </div>
+                            <div class="col">
+                                <a class="dropdown-icon-item" href="#">
+                                    <img src="assets/images/brands/mail_chimp.png" alt="mail_chimp">
+                                    <span>Mail Chimp</span>
+                                </a>
+                            </div>
+                            <div class="col">
+                                <a class="dropdown-icon-item" href="#">
+                                    <img src="assets/images/brands/slack.png" alt="slack">
+                                    <span>Slack</span>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>  --}}
+ {{-- github and many more end--}}
+            <div class="dropdown d-none d-lg-inline-block ms-1">
+                <button type="button" class="btn header-item noti-icon waves-effect" data-toggle="fullscreen">
+                    <i class="ri-fullscreen-line"></i>
+                </button>
+            </div>
+
+
+    
+            &nbsp;
+            &nbsp;
+            &nbsp;
+            <div class="flex-1">
+            <div class="dropdown d-inline-block">
+               
+                   <img class="light" src="{{ asset('frontend/assets/img/logo/write_2.png') }}" alt="Figma" height="20" width="20"></button>
+           <a href="http://127.0.0.1:8000/write/page"> <input type="submit" class="btn btn-info waves-effect waves-light" value="write"></a> 
+                  <button type="button" class="btn header-item noti-icon right-bar-toggle waves-effect" ></button> 
+                   {{-- <i class="ri-settings-2-line"></i> --}}
+                
+            </div>
+            </div>
+
+
+
+            <div class="dropdown d-inline-block">
+                <button type="button" class="btn header-item noti-icon waves-effect" id="page-header-notifications-dropdown"
+                      data-bs-toggle="dropdown" aria-expanded="false">
+                    <i class="ri-notification-3-line"></i>
+                    <span class="noti-dot"></span>
+                </button>
+                <div class="dropdown-menu dropdown-menu-lg dropdown-menu-end p-0"
+                    aria-labelledby="page-header-notifications-dropdown">
+                    <div class="p-3">
+                        <div class="row align-items-center">
+                            <div class="col">
+                                <h6 class="m-0"> Notifications </h6>
+                            </div>
+                      
+                    </div>
+                    <div class="p-2 border-top">
+                        <div class="d-grid">
+                            <a class="btn btn-sm btn-link font-size-14 text-center" href="javascript:void(0)">
+                                <i class="mdi mdi-arrow-right-circle me-1"></i> View More..
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+     @php
+        //       $id=Auth::userregi()->id;
+//  $userdata = App\Models\userregi::find($id);
+//  $id=Auth::user()->id;
+//      $adminData = App\Models\User::find($id);
+// $id=Auth::userregi()->id;
+//     $user=DB::table('userregis')->select('name','email')->where("id","=",session('$id'))->get();
+//     return view('profile',['user'=>$user]);
+
+ // $id=Auth::userregi()->id;
+ // $adminData=Userregi::find($id);
+ $image =session()->get('u_image');
+     @endphp
+            <div class="dropdown d-inline-block user-dropdown">
+                <button type="button" class="btn header-item waves-effect" id="page-header-user-dropdown"
+                    data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                      <img class="rounded-circle header-profile-user" src="{{$image}}" alt="Header Avatar">
+                      
+                    <span class="d-none d-xl-inline-block ms-1">{{ request()->session()->get('name') }}</span>
+                    <i class="mdi mdi-chevron-down d-none d-xl-inline-block"></i> 
+                </button>
+                <div class="dropdown-menu dropdown-menu-end">
+                    <!-- item-->
+                    <a class="dropdown-item" href="{{ route('user.profile') }}"><i class="ri-user-line align-middle me-1"></i> Profile</a>
+                    <a class="dropdown-item" href="{{ route('change.password') }}"><i class="ri-wallet-2-line align-middle me-1"></i>Change password</a>
+                    <a class="dropdown-item d-block" href="{{ route('post.show') }}"><span class="badge bg-success float-end mt-1"></span><i class="ri-settings-2-line align-middle me-1"></i>POST</a>
+                    <a class="dropdown-item" href="#"><i class="ri-lock-unlock-line align-middle me-1"></i> Lock screen</a>
+                    <div class="dropdown-divider"></div>
+                    <a class="dropdown-item text-danger" href="{{ route('admin.logout') }}"><i class="ri-shut-down-line align-middle me-1 text-danger"></i> Logout</a>
+                </div>
+            </div>
+
+            <div class="dropdown d-inline-block">
+                <button type="button" class="btn header-item noti-icon right-bar-toggle waves-effect">
+                    <i class="ri-settings-2-line"></i>
+                </button>
+            </div>
+
+        </div>
+    </div>
+</header>
