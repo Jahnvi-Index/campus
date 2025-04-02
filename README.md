@@ -1,3 +1,20 @@
+SCREENSHOTS:
+![Screenshot 2023-02-27 202348](https://github.com/user-attachments/assets/958ea2ff-a545-4bfd-94e9-79e63121a48f)
+![Screenshot 2023-02-27 202508](https://github.com/user-attachments/assets/377180a5-d28e-4618-b9e3-34334477c0a5)
+
+![Screenshot 2023-02-27 202421](https://github.com/user-attachments/assets/6b484c8f-9273-4c7e-8a87-6ba47fddf119)
+![Screenshot 2023-02-27 202620](https://github.com/user-attachments/assets/34926c78-efd5-43a9-ba50-59944d60c82a)
+
+![Screenshot 2023-02-![Screenshot 2023-02-27 202648](https://github.com/user-attachments/assets/9f869feb-5108-4986-9e85-7822e9f2a06c)
+27 202531](https://github.com/user-attachments/assets/731f9d23-2cc2-4f42-9afb-ef34f96b2fdc)
+![Screenshot 2023-02-27 202709](https://github.com/user-attachments/assets/86872fab-f40c-4f1f-8d04-20da2e337c8d)
+![Screenshot 2023-03-31 1![Screenshot 2023-03-31 193925](https://github.com/user-attachments/assets/29c9c563-ed1c-4988-a8d3-1c41e131e9ee)
+93752](https://github.com/user-attachments/assets/93f7549a-837d-46f5-8e86-6e1fda0cf4c4)
+![Screenshot 2023-03-31 194045](https://github.com/user-attachments/assets/4c3a6a77-54b7-4535-a5d0-c863582c0495)
+![Screenshot 2023-03-31 194128](https://github.com/user-attachments/assets/61278da8-0a88-4bd3-b9c4-384e094cee31)
+
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
